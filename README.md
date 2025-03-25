@@ -1,7 +1,5 @@
 # Titanic Survival Prediction - Machine Learning Classifier
 
-![Titanic Banner](https://upload.wikimedia.org/wikipedia/commons/f/fd/RMS_Titanic_3.jpg)
-
 ## Project Objective
 The goal of this project is to predict the survival of passengers aboard the Titanic using machine learning algorithms. This is a **binary classification problem** where the target variable is:
 - `1` → Survived
